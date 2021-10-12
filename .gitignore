@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+selenium/solutions/Web_Scraping_Selenium_PROF.ipynb
+selenium/badgr/badgr_clean.ipynb
+selenium/badgr/badgr.ipynb
